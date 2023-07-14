@@ -1,5 +1,5 @@
-//https://www.codewars.com/kata/56541980fa08ab47a0000040/train/shell
-//
+# https://www.codewars.com/kata/56541980fa08ab47a0000040/train/shell
+#
 #!/bin/bash
 printerError() {
 string=$1
