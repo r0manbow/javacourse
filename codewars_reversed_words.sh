@@ -1,5 +1,5 @@
-// https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/shell
-//
+# https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/shell
+#
 input_string=$1
 
 read -ra words <<< "$input_string"
