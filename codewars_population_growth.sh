@@ -1,5 +1,5 @@
-// https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/shell
-//
+# https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/shell
+#
 #!/bin/bash
 nbYear() {
     input_population=$1

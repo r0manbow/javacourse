@@ -1,5 +1,5 @@
-// https://www.codewars.com/kata/5545f109004975ea66000086/train/shell
-//
+# https://www.codewars.com/kata/5545f109004975ea66000086/train/shell
+#
 #!/bin/bash
 n=$1
 x=$2
