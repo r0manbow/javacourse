@@ -1,5 +1,3 @@
-# https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/shell
-#
 #!/bin/bash
 accum () {                                       
     length=${#input_string}   
@@ -26,3 +24,5 @@ accum () {
     
 }
 accum "$1"
+
+# https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/shell
