@@ -1,5 +1,3 @@
-# https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/shell
-#
 #!/bin/bash
 nbYear() {
     input_population=$1
@@ -18,3 +16,5 @@ done
 }
 
 nbYear $1 $2 $3 $4
+
+# https://www.codewars.com/kata/563b662a59afc2b5120000c6/train/shell
