@@ -1,5 +1,3 @@
-# https://www.codewars.com/kata/56541980fa08ab47a0000040/train/shell
-#
 #!/bin/bash
 printerError() {
 string=$1
@@ -15,3 +13,5 @@ done
 echo $count/$string_length
 }
 printerError $1
+
+# https://www.codewars.com/kata/56541980fa08ab47a0000040/train/shell
