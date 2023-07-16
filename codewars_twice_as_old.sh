@@ -1,5 +1,3 @@
-# https://www.codewars.com/kata/5b853229cfde412a470000d0/train/shell
-#
 #!/bin/bash
 
 dad_years_old=$1
@@ -13,3 +11,5 @@ fi
 echo $result
 
 exit
+
+# https://www.codewars.com/kata/5b853229cfde412a470000d0/train/shell
